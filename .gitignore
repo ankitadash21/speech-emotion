@@ -3,3 +3,5 @@ data/
 __pycache__/
 *.npy
 *.joblib
+*.wav
+*.mp3
